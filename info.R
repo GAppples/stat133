@@ -1,0 +1,5 @@
+name = "Gabrielle Kasher"
+SID = "22923289"
+email = "gkasher@berkeley.edu"
+github_name = "GAppples"
+status = "enrolled"
