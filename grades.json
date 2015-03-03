@@ -1,0 +1,23 @@
+{
+    "email": "gkasher@berkeley.edu", 
+    "github_name": "GAppples", 
+    "grades": {
+        "hw1": {
+            "note": "", 
+            "hash": "215e5ea2937c07bbfcce7f3b81a89de200119163", 
+            "earned": 12, 
+            "possible": 20, 
+            "penalty": 0, 
+            "parts": {
+                "hw1": {
+                    "possible": 20, 
+                    "earned": 12
+                }
+            }
+        }
+    }, 
+    "login": "GAppples", 
+    "name": "Gabrielle Kasher", 
+    "status": "enrolled", 
+    "url": "git@github.com:GAppples/stat133.git"
+}
