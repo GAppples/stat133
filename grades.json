@@ -14,10 +14,23 @@
                     "earned": 12
                 }
             }
+        }, 
+        "hw4": {
+            "note": "", 
+            "hash": "77ac1bb85655e4a1c13713ac3068d77ca14f119b", 
+            "earned": 0, 
+            "possible": 20, 
+            "penalty": 0, 
+            "parts": {
+                "hw4": {
+                    "possible": 20, 
+                    "earned": 0
+                }
+            }
         }
     }, 
     "login": "GAppples", 
     "name": "Gabrielle Kasher", 
-    "status": "enrolled", 
+    "status": "unenrolled", 
     "url": "git@github.com:GAppples/stat133.git"
 }
